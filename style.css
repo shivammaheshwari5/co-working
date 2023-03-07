@@ -790,5 +790,12 @@ display: none;
   .cwrkng{
     margin-top: 20px;
   }
+  .price_content{
+    margin: 0;
+  }
+  .price_card {
+    padding: 17px;
+    line-height: 22px;
+  }
 
 }
